@@ -1,5 +1,5 @@
 {
-  "name": "svelte-app",
+  "name": "svelte-scoreboard",
   "version": "1.0.0",
   "scripts": {
     "build": "rollup -c",
@@ -17,6 +17,6 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
-    "sirv-cli": "^1.0.0"
+    "sirv-cli": "^1.0.10"
   }
 }
